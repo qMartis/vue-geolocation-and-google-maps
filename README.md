@@ -1,6 +1,8 @@
 # Vite, Vue3, Tailwind CSS (single-page app)
 
-![Vite, Vue, Tailwind CSS](https://user-images.githubusercontent.com/11320080/111277027-a9384c00-8640-11eb-8323-21889bd7c609.png)
+
+
+![Vite, Vue, Tailwind CSS] GOOGLE MAPS AND GEOLOCATION
 
 This starter template includes:
 
@@ -33,7 +35,9 @@ npm i
 npm run dev
 npm run build
 npm run serve
+!!! CHANGE API KEY IN src/components/GoogleMaps.vue  !!!!!
 ```
+
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/web2033/vite-vue3-tailwind-starter)
 #
